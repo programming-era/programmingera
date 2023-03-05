@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:3000/customer-service/</loc>
+<lastmod>2023-03-03T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:3000/404/</loc>
+</url>
+<url>
+<loc>http://localhost:3000/about.html</loc>
+</url>
+<url>
+<loc>http://localhost:3000/categories.html</loc>
+</url>
+<url>
+<loc>http://localhost:3000/</loc>
+</url>
+<url>
+<loc>http://localhost:3000/privacy-policy.html</loc>
+</url>
+<url>
+<loc>http://localhost:3000/tags.html</loc>
+</url>
+<url>
+<loc>http://localhost:3000/a.html</loc>
+<lastmod>2023-03-05T13:04:29+05:30</lastmod>
+</url>
+</urlset>
