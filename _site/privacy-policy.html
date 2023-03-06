@@ -45,6 +45,15 @@
     crossorigin="anonymous"></script>
 
     <!-- This goes before </head> closing tag, Google Analytics can be placed here --> 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WWTNXEV7C3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WWTNXEV7C3');
+</script>
 
 
 </head>
@@ -117,7 +126,7 @@ var documents = [{
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 7,
-    "url": "http://localhost:3000/customer-service/",
+    "url": "http://localhost:3000/creating-your-first-website/",
     "title": "Creating Your First Website for Beginners: From Github to Netlify",
     "body": "2023/03/03 -   Creating your first website can be a daunting task, but with the right resources and tools, it can be an exciting and rewarding experience. In this blog post, we'll walk you through the process of creating a simple website for beginners and deploying it on Netlify. Step 1: Setting up your development environmentBefore you start building your website, you'll need to set up your development environment. You'll need a text editor to write your code, a web browser to test your website, and Git to manage your code. For this tutorial, we recommend using Visual Studio Code as your text editor and Google Chrome as your web browser. Git comes pre-installed on most operating systems, but if you don't have it installed, you can download it from the official website. Step 2: Creating your websiteOnce you have your development environment set up, it's time to create your website. For this tutorial, we'll create a simple website that displays a heading and a paragraph. First, create a new folder on your computer and name it  my-website . Then, open Visual Studio Code and create a new file in the  my-website  folder. Name the file  index. html  and add the following code:  &lt;!DOCTYPE html&gt; &lt;html&gt; &lt;head&gt;	&lt;title&gt;My Website&lt;/title&gt; &lt;/head&gt; &lt;body&gt;	&lt;h1&gt;Welcome to my website&lt;/h1&gt;	&lt;p&gt;This is a paragraph. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;This code creates a basic HTML page with a heading and a paragraph. Save the file and open it in your web browser to see the result. Step 3: Pushing your website to GitHubNow that you've created your website, it's time to push it to GitHub. GitHub is a platform for hosting and managing your code repositories. First, create a new repository on GitHub. Name the repository  my-website  and make it public. Then, go back to Visual Studio Code and open the terminal. Navigate to the  my-website  folder by typing cd my-website in the terminal. Then, initialize a new Git repository by typing git init. Next, add all the files in the folder to the Git repository by typing git add . . Finally, commit the changes by typing git commit -m  Initial commit . Now, connect your local Git repository to the remote GitHub repository by typing git remote add origin https://github. com/your-username/my-website. git. Replace  your-username  with your GitHub username. Then, push the changes to GitHub by typing git push -u origin main. Step 4: Deploying your website on NetlifyNow that your website is on GitHub, it's time to deploy it on Netlify. Netlify is a platform for hosting and deploying websites. First, sign up for a free account on Netlify. Then, click the  New site from Git  button on the dashboard. Choose GitHub as the source and select the  my-website  repository. Then, click  Deploy site . Netlify will build and deploy your website automatically. Once the deployment is complete, you'll be given a URL for your website. Click the URL to see your website live on the internet. Congratulations, you've created your first website and deployed it on Netlify! This is just the beginning of your web development journey. Keep learning and exploring new technologies to take your skills to the next level. "
     }];

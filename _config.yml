@@ -3,7 +3,9 @@ name: 'Programmingera'
 description: 'Welcome to ProgrammingEra - Your Premier Destination for All Things Coding, Programming, and Technology. Stay ahead of the curve with expert insights, tutorials, and the latest industry news'
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/favicon.ico'
-baseurl: 'https://programmingera.com'
+baseurl: 
+siteurl: https://testwebcams.com
+url: https://testwebcams.com
 disqus: 'programmingera'
 
 
