@@ -35,3 +35,5 @@ fields:
   type: tag_list
   default: []
   label: Categories
+pages:
+- _posts/how-to-become-a-web-developer-in-2023-a-step-by-step-guide.md
