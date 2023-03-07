@@ -9,7 +9,7 @@ description: ''
 title: 'How to Become a Web Developer in 2023: A Step-by-Step Guide'
 layout: 'post'
 author: ''
-image: "/assets/images/fotis-fotopoulos-6sal6aq4owi-unsplash-1.jpg"
+image: assets/images/fotis-fotopoulos-6sal6aq4owi-unsplash-1.jpg
 
 ---
 ![](/assets/images/fotis-fotopoulos-6sal6aq4owi-unsplash-1.jpg)
