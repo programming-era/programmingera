@@ -4,7 +4,7 @@ tags:
 categories:
 - career
 - programming
-- 'web development '
+- web development
 description: ''
 title: 'How to Become a Web Developer in 2023: A Step-by-Step Guide'
 layout: 'post'
