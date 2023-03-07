@@ -1,11 +1,11 @@
 ---
 tags: []
-categories: []
+categories: ["artificial intelligence","technology"]
 description: ''
 title: How to Redesign Your Room Images Using RoomGPT
-layout: 'post '
+layout: 'post'
 author: ''
-image: "/assets/images/generated-pic-2.webp"
+image: assets/images/generated-pic-2.webp
 
 ---
 ![](/assets/images/generated-pic-2.webp)
