@@ -35,3 +35,5 @@ fields:
   type: tag_list
   default: []
   label: Categories
+pages:
+- _posts/how-i-cracked-my-first-frontend-web-developer-interview.md
