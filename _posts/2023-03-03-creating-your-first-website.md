@@ -4,7 +4,7 @@ title: "Creating Your First Website for Beginners: From Github to Netlify"
 author: jane
 categories: [html,website,coding,programming]
 image: assets/images/photo-1498050108023-c5249f4df085.avif
-tags: [sticky, featured]
+tags: [featured]
 ---
 
 <div>
