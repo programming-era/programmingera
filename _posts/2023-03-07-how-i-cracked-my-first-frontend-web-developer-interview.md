@@ -9,7 +9,7 @@ description: Want to know how to crack your first frontend web developer intervi
 title: How I Cracked My First Frontend Web Developer Interview
 layout: post
 author: programmingera
-image: "/assets/images/pexels-edmond-dantes-4344340-1.jpg"
+image: assets/images/pexels-edmond-dantes-4344340-1.jpg
 
 ---
 ![](/assets/images/pexels-edmond-dantes-4344340-1.jpg)
