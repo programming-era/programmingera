@@ -35,3 +35,5 @@ fields:
   type: tag_list
   default: []
   label: Categories
+pages:
+- _posts/how-to-use-the-new-bing-with-chatgpt-and-what-you-can-do-with-it.md
