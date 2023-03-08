@@ -35,5 +35,3 @@ fields:
   type: tag_list
   default: []
   label: Categories
-pages:
-- _posts/how-to-redesign-your-room-images-using-roomgpt.md
