@@ -1,15 +1,15 @@
 ---
 tags:
-- 'featured '
+- featured
 categories:
 - chatgpt
 - bing
 - artificial intelligence
 description: ''
 title: How to use the new Bing with ChatGPT — and what you can do with it
-layout: 'post '
+layout: post
 author: ''
-image: "/assets/images/screenshot-2023-03-08-at-6-50-35-pm.png"
+image: assets/images/screenshot-2023-03-08-at-6-50-35-pm.png
 
 ---
 ![chatgpt](/assets/images/screenshot-2023-03-08-at-6-50-35-pm.png "bing and chatgpt")
