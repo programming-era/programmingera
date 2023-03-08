@@ -54,6 +54,6 @@ The new Bing with ChatGPT uses AI technology to learn your search habits and pro
 
 The new Bing with ChatGPT not only provides more accurate search results but also presents the information in a more organized and easy-to-read format. This allows you to find the information you need faster and more efficiently.
 
-3. **Stay up to date:**
+**Stay up to date:**
 
 The new Bing with ChatGPT provides real-time news updates and allows you to stay up to date with the latest news and trends. You can also set up alerts for specific topics and receive notifications when new information becomes available.
