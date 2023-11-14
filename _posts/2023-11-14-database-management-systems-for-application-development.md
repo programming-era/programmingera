@@ -4,12 +4,12 @@ categories:
 - DBMS 
 - data base 
 - application 
-- mysql 
+- mysql
+  
 tags: 
-- featured 
+- featured
+- 
 layout: post
-primaryKeywords: []
-secondaryKeywords: []
 title: Database Management Systems For Application Development: Introduction
 image: /uploads/11_14_2023_1699971217146_1234.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1648&q=80
 
