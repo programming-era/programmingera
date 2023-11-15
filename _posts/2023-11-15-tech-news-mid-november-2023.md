@@ -16,7 +16,7 @@ primaryKeywords: []
 secondaryKeywords: []
 title: tech news mid november 2023
 description: 
-image: /uploads/11_15_2023_1700040524275_download (1).jpg
+image: /uploads/11_15_2023_1700040524275_download.jpg
 
 ---
 **Facebook launches Horizon Workrooms, a VR app for remote collaboration** Facebook has announced Horizon Workrooms, a new app that lets users hold virtual meetings in VR using the Oculus Quest 2 headset. The app allows users to create a virtual office space, where they can see and interact with their colleagues as avatars, share files and whiteboards, and access their computer and keyboard in VR.
