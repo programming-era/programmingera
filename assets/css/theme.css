@@ -663,6 +663,10 @@ article {
     line-height: 1.15;
     color: #222222;
 }
+img{
+	display: block;
+	width: 100%;
+}
 article p,article pre,article figure,article img,article blockquote,article iframed,article embed {
 	margin-bottom:2rem;
 }
