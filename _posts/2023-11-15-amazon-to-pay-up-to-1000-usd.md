@@ -13,7 +13,7 @@ layout: post
 primaryKeywords: []
 secondaryKeywords: []
 title: Amazon to pay up to 1000 USD
-image: /uploads/11_15_2023_1700040934613_amazon_logo._CB633266945_.png
+image: /uploads/amazon.png
 
 ---
   # Amazon to pay customers up to $1,000 for defective products sold by third-party sellers

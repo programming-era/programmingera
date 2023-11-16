@@ -12,7 +12,7 @@ layout: post
 primaryKeywords: []
 secondaryKeywords: []
 title: The Ultimate Guide to MySQL in 2023 Everything you need to know
-image: /uploads/11_16_2023_1700138306897_sql logo.jpg
+image: /uploads/11_16_2023_1700138306897.jpg
 contributors: []
 
 ---
