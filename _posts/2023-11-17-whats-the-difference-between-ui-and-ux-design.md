@@ -12,7 +12,7 @@ tags:
 layout: post
 primaryKeywords: []
 secondaryKeywords: []
-title: Difference between UI and UX design
+title: What's the difference between UI and UX design?
 description: Learn about UI and UX design – how things look and how they work together to make digital stuff easy and cool for everyone
 image: uploads/17_11_2023_1700213230922.jpeg
 contributors: []
