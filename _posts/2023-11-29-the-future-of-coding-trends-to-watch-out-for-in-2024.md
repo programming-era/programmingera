@@ -17,7 +17,7 @@ contributors:
 - Ram Moudgill
 
 ---
-  ![](/uploads/11_29_2023_1701269216734.jpeg)Coding’s Crucial Role  
+
 Coding is the backbone of our digital world, powering software, apps, and technology that shape our lives. 
 Current State of Coding 
 A. Current technologies, languages, and frameworks commonly used in coding 
