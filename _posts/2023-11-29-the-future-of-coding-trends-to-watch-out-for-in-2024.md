@@ -12,7 +12,7 @@ layout: post
 primaryKeywords: []
 secondaryKeywords: []
 title: The Future of Coding Trends to Watch Out for in 2024
-image: uploads/30_11_2023_1701332555071.jpeg
+image: /uploads/30_11_2023_1701332555071.jpeg
 contributors: 
 - Ram Moudgill
 

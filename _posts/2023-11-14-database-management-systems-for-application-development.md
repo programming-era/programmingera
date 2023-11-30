@@ -1,12 +1,12 @@
 ---
-author: Ram Moudgill
+author: Programmingera
 categories: []
 tags: []
 layout: post
 primaryKeywords: []
 secondaryKeywords: []
 title: Database Management Systems For Application Development
-image: uploads/14_11_2023_1699972890165_file.png
+image: /uploads/14_11_2023_1699972890165_file.png
 
 ---
 
