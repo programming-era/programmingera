@@ -10,13 +10,7 @@ description: "Welcome to ProgrammingEra - Your Premier Destination for All Thing
 <div class="container">
     
 {% if page.url == "/" %}
-    
-    
-    
-<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
-    
-    <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
@@ -146,7 +140,7 @@ description: "Welcome to ProgrammingEra - Your Premier Destination for All Thing
                 </p>
                 <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});">	
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{ post.image }});">	
             </div>
         </div>
     </div>

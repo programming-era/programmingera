@@ -1,5 +1,5 @@
 ---
-author: Ram Moudgill
+author: Programmingera
 categories: 
 - mysql
 - sql

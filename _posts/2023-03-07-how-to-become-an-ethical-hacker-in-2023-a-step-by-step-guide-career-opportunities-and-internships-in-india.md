@@ -1,4 +1,5 @@
 ---
+author: Programmingera
 tags: []
 categories:
 - Ethical Hacking
@@ -7,7 +8,7 @@ title: 'How to Become an Ethical Hacker in 2023: A Step-by-Step Guide, Career Op
   and Internships in India'
 layout: post
 author: programmingera
-image: "assets/images/pexels-tima-miroshnichenko-5380642.jpg"
+image: "/assets/images/pexels-tima-miroshnichenko-5380642.jpg"
 comments: false
 
 ---

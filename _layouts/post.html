@@ -11,14 +11,31 @@ layout: default
 	<div class="row justify-content-center" >
 		
 		<div class="col-md-12 ">
-			<p class="text-uppercase font-weight-bold">
-				<span class="catlist">
+			
+			
+			<h1 class="display-4 article-headline">{{ page.title }}</h1>
+			<div class="text-uppercase my-4">
+				<span class="mr-3 font-weight-bold">{{ page.date | date: '%b %d, %Y' }}</span>
 				{% for category in page.categories %}
-				  <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
+				  <a class="category-chip" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep"> </span>
 				{% endfor %}
-				</span>
-			</p>
-			<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
+			</div>
+			<div class="author">
+  
+				
+				<div class="author-image">{{ page.author | slice: 0, 1 }}</div>
+		
+			
+		  
+			
+			<div class="author-content">
+			  <div class="author-name">{{page.author}}</div>
+			  
+			  <div class="author-job">Software Engineer</div>
+			  
+			</div>
+			
+		  </div>
 			
 		</div>
 		<div class="col-lg-2 pr-4 mb-4 col-md-12"></div>
