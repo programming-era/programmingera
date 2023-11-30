@@ -7,7 +7,7 @@ description:
 title: How to Redesign Your Room Images Using RoomGPT
 layout: post
 author: Ram Moudgill
-image: assets/images/generated-pic-2.webp
+image: /uploads/30_11_2023_1701336391265.jpeg
 secondaryKeywords: []
 primaryKeywords: []
 
