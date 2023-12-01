@@ -17,7 +17,8 @@ primaryKeywords: []
 secondaryKeywords: []
 image: /uploads/12_1_2023_1701405013102.jpeg
 title: What is HTML Understanding the Language That Powers the Web
-contributors: []
+contributors: 
+- Ram Moudgill
 
 ---
   ![](/uploads/12_1_2023_1701405027193.jpeg)
@@ -82,17 +83,18 @@ HOW TO CREATE MY FIRST HTML DOCUMENT 
 ![](/uploads/12_1_2023_1701404615967.png)
 ### **SUMMARY** : 
 This basic HTML code represents the structure of a web page. The &lt;html&gt; tag denotes the beginning and end of the HTML document, while &lt;head&gt; contains meta-information about the document, such as the title specified within the &lt;title&gt; tags. The &lt;body&gt; section holds the visible content of the webpage, including headers &lt;h1&gt; and paragraphs &lt;p&gt;.
-**FAQs**
-**1. What exactly is HTML?**
+##### **FAQs**
+##### **1. What exactly is HTML?**
 HTML stands for HyperText Markup Language, a coding language used to create web pages.
-**2. How does HTML affect SEO?**
+##### **2. How does HTML affect SEO?**
 HTML affects SEO by providing a clear structure and semantic markup that search engines use to understand and rank web pages.
-**3. Is HTML the only language used in web development?**
+##### **3. Is HTML the only language used in web development?**
 No, HTML is often combined with CSS for styling and JavaScript for interactivity to create fully functional websites.
-**4. Why is semantic HTML important?**
+##### **4. Why is semantic HTML important?**
 Semantic HTML helps search engines understand the content and context of a web page, contributing to better accessibility and SEO.
-**5. What are some key features of HTML5?**
+##### **5. What are some key features of HTML5?**
 HTML5 introduced new elements, multimedia support, and improved semantics, elevating the capabilities of web development.
+
 
 
 
