@@ -7,15 +7,15 @@ categories:
 - bing
 - artificial intelligence
 description: null
-title: How to use the new Bing with ChatGPT — and what you can do with it
+title: "How to use the new Bing with ChatGPT and what you can do with it"
 layout: post
-author: Programmingera
 image: /assets/images/screenshot-2023-03-08-at-6-50-35-pm.png
 secondaryKeywords: []
 primaryKeywords: []
 
 ---
-  ![](/uploads/13_11_2023_1699887226162_screenshot-2023-03-08-at-6-50-35-pm.png)
+
+![](/uploads/13_11_2023_1699887226162_screenshot-2023-03-08-at-6-50-35-pm.png)
 Bing, Microsoft’s search engine, has always been a strong contender in the search engine market. However, with the integration of ChatGPT, the new Bing has taken the search engine game to the next level. The new Bing with ChatGPT is an AI-powered search engine that not only provides more relevant and accurate search results but also allows you to interact with it in a more natural way. In this article, we will show you how to use the new Bing with ChatGPT and what you can do with it.
 ## How to use the new Bing with ChatGPT:
 1 **Access the new Bing:** To access the new Bing with ChatGPT, simply go to the Bing search engine and start typing in your search query.
