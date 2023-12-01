@@ -8,7 +8,7 @@ layout: post
 primaryKeywords: []
 secondaryKeywords: []
 title: "The Truth About Tesla Cybertruck: Why Some People Love It and Some People Hate It"
-image: uploads/01_12_2023_1701412790076.jpeg
+image: /uploads/01_12_2023_1701412790076.jpeg
 
 ---
   ![](/uploads/01_12_2023_1701412814023.jpeg)
