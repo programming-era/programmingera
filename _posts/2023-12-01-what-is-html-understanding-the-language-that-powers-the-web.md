@@ -18,7 +18,6 @@ image: /uploads/12_1_2023_1701405013102.jpeg
 title: What is HTML Understanding the Language That Powers the Web
 
 ---
-  # 
 
 ![](/uploads/12_1_2023_1701405027193.jpeg)
 
