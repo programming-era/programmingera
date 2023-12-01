@@ -10,16 +10,17 @@ categories:
 - atom
 - brackets
 - web development
-tags: []
+tags: 
+- featured
 layout: post
 primaryKeywords: []
 secondaryKeywords: []
 image: /uploads/12_1_2023_1701405013102.jpeg
 title: What is HTML Understanding the Language That Powers the Web
+contributors: []
 
 ---
-
-![](/uploads/12_1_2023_1701405027193.jpeg)
+  ![](/uploads/12_1_2023_1701405027193.jpeg)
 
 #### **INTRODCUTION**
 In this digital age, where websites shape our online experiences, understanding HTML is pivotal. Let's delve into the fundamentals and explore the essence of HTML, the bedrock of the web.
@@ -92,5 +93,6 @@ No, HTML is often combined with CSS for styling and JavaScript for interactivity
 Semantic HTML helps search engines understand the content and context of a web page, contributing to better accessibility and SEO.
 **5. What are some key features of HTML5?**
 HTML5 introduced new elements, multimedia support, and improved semantics, elevating the capabilities of web development.
+
 
 
