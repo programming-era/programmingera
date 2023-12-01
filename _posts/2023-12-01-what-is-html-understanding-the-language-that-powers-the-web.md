@@ -22,7 +22,7 @@ contributors: []
 ---
   ![](/uploads/12_1_2023_1701405027193.jpeg)
 
-#### **INTRODCUTION**
+#### **INTRODUCTION**
 In this digital age, where websites shape our online experiences, understanding HTML is pivotal. Let's delve into the fundamentals and explore the essence of HTML, the bedrock of the web.
 **Understanding HTML**
 Basics of HTML
