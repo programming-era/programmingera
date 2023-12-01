@@ -9,7 +9,6 @@ categories:
 description: null
 title: "How to use the new Bing with ChatGPT and what you can do with it"
 layout: post
-author: Programmingera
 image: /assets/images/screenshot-2023-03-08-at-6-50-35-pm.png
 secondaryKeywords: []
 primaryKeywords: []
