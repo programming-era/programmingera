@@ -1,6 +1,8 @@
 ---
 author: Gurjit Singh
-categories: []
+categories: 
+- ai
+- video
 tags: 
 - featured
 layout: post
@@ -17,6 +19,7 @@ secondaryKeywords: []
 title: AI can now turn image into moving video RUNWAYML
 description: Runway can your image into video.
 image: /uploads/11_30_2023_1701365328631.jpeg
+contributors: []
 
 ---
   **Can you imagine turning any image into a video with just a few clicks?**
@@ -35,4 +38,5 @@ However, Runway ML can also pose some challenges and risks, such as ethical, leg
 Therefore, Runway ML users should be aware of the potential consequences and implications of their creations, and use the tool responsibly and ethically. Runway ML users should also respect the rights and privacy of others, and follow the guidelines and policies of the platform and the community.
 
 : [Runway ML | About Us] : [Runway ML | Documentation] : [Runway ML | Crunchbase Company Profile &amp; Funding]
+
 
