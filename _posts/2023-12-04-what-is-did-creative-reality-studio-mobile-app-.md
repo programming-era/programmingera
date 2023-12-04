@@ -22,3 +22,4 @@ image: /uploads/04_12_2023_1701703956127.jpeg
 **4. On-the-Go Creativity**: With the D-ID Creative Reality™ Studio Mobile App, you have the ultimate tool for creating videos featuring digital people **wherever you are**.
 [The app is available on both **Google Play** and **iOS** platforms, making it accessible to existing and new users alike](https://www.d-id.com/creative-reality-studio-mobile-app/)[1](https://www.d-id.com/creative-reality-studio-mobile-app/)[2](https://www.d-id.com/news/press-release-d-id-launches-mobile-app/)[3](https://www.tmcnet.com/usubmit/2023/10/26/9905963.htm). So go ahead, animate any face, anytime, anywhere—right from your phone!
 
+
