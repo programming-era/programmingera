@@ -10,10 +10,10 @@ layout: post
 primaryKeywords: []
 secondaryKeywords: []
 title: "What is Kotlin"
-image: /uploads/12_6_2023_1701872945795.jpeg
+image: /uploads/12_6_2023_1701873397026.jpeg
 
 ---
-  ## Introduction: Unveiling Kotlin's Significance in Modern Programming
+  ## Introuction: Unveiling Kotlin's Significance in Modern Programming
 
 ![](/uploads/12_6_2023_1701873042315.jpeg)
 
@@ -23,7 +23,8 @@ Kotlin has emerged as a game-changer in the realm of programming languages, revo
 Originally developed by JetBrains, Kotlin made its debut in 2011, aiming to address the limitations and challenges faced by developers while working with existing programming languages.
 ##### Key Features of Kotlin: Unlocking its Potential
 
-![](/uploads/12_6_2023_1701873136255.jpeg)
+![img](/uploads/12_6_2023_1701873450820.jpeg)
+
 
 **Conciseness and Readability**
 Kotlin's succinct syntax enables developers to write clean, concise code, enhancing readability and reducing boilerplate.
