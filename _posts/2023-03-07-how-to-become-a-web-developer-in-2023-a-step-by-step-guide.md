@@ -1,19 +1,16 @@
 ---
 author: Programmingera
 tags:
-- featured
-categories:
-- career
-- programming
-- web development
-description: ''
-title: 'How to Become a Web Developer in 2023: A Step-by-Step Guide'
-layout: 'post'
-
+  - featured
+  - career
+  - programming
+  - web development
+featured: true
+description: ""
+title: "How to Become a Web Developer in 2023: A Step-by-Step Guide"
+layout: "post"
 image: /assets/images/fotis-fotopoulos-6sal6aq4owi-unsplash-1.jpg
-
 ---
-![](/assets/images/fotis-fotopoulos-6sal6aq4owi-unsplash-1.jpg)
 
 Are you considering a career in web development? If so, you're in the right place. In this article, we'll take you through a step-by-step guide on how to become a web developer in 2023.
 

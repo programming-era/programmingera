@@ -1,27 +1,23 @@
 ---
 author: Divyashree vyas
-categories: 
-- AI 
-- Web Development 
-- Machine Learning 
-- Chat GPT
-tags: 
-- Featured
+tags:
+  - ai
+  - web development
+  - machine learning
+  - chat gpt
 layout: post
+
 primaryKeywords: []
 secondaryKeywords: []
 title: "What is Generative AI "
 image: /uploads/12_2_2023_1701522523333.jpeg
-
 ---
 
-![img](/uploads/12_2_2023_1701522505240.jpeg)
 Generative AI, a marvel of modern technology, stands as a testament to human innovation and the boundless capabilities of artificial intelligence. It's more than just lines of code; it's a gateway to a realm where machines can create, imagine, and inspire.
 
 At its core, generative AI revolves around neural networks, mimicking the intricate workings of the human brain. Through these algorithms, it learns patterns, understands nuances, and then, remarkably, generates entirely new content autonomously. It's the artistry of the digital age, the fusion of human creativity and computational power.
 
 ![img](/uploads/12_2_2023_1701522565302.jpeg)
-
 
 One of the most captivating aspects of generative AI lies in its ability to create art. Picture an artist who doesn’t wield a brush or palette but instead collaborates with algorithms to birth breathtaking visuals and thought-provoking pieces. Landscapes, portraits, abstract creations—the boundaries of artistic expression stretch endlessly.
 

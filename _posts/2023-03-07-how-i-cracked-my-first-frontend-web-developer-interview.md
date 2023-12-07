@@ -1,18 +1,18 @@
 ---
 tags:
-- featured
-categories:
-- web development
-- interview
-description: Want to know how to crack your first frontend web developer interview?
+  - featured
+  - web development
+  - interview
+featured: true
+description:
+  Want to know how to crack your first frontend web developer interview?
   Read on to learn about my journey and the tips and tricks I used to succeed.
 title: How I Cracked My First Frontend Web Developer Interview
 layout: post
+
 author: programmingera
 image: /assets/images/pexels-edmond-dantes-4344340-1.jpg
-
 ---
-![](/assets/images/pexels-edmond-dantes-4344340-1.jpg)
 
 Becoming a frontend web developer has been my dream since I first learned to code. However, the journey to landing my first job in this field was not an easy one. I faced numerous challenges and obstacles along the way, including fierce competition, lack of experience, and the need to constantly update my skills.
 
@@ -22,20 +22,20 @@ Finally, my hard work paid off, and I was invited to my first frontend web devel
 
 ## Preparing for the Interview:
 
-* Research the company's website, social media, and news articles to understand their values, mission, and goals.
-* Study the job description and requirements to prepare for specific technical questions.
-* Update your resume and portfolio with your most recent projects and skills.
+- Research the company's website, social media, and news articles to understand their values, mission, and goals.
+- Study the job description and requirements to prepare for specific technical questions.
+- Update your resume and portfolio with your most recent projects and skills.
 
 ## During the Interview:
 
-* Dress professionally to make a good first impression.
-* Be confident and engaging when answering questions and talking about your experience.
-* Show interest in the company by asking thoughtful questions about their products, services, and culture.
+- Dress professionally to make a good first impression.
+- Be confident and engaging when answering questions and talking about your experience.
+- Show interest in the company by asking thoughtful questions about their products, services, and culture.
 
 ## After the Interview:
 
-* Send a thank-you note within 24 hours of the interview to show your appreciation and enthusiasm for the job.
-* Follow up with the interviewer or HR manager if you haven't heard back within a week.
+- Send a thank-you note within 24 hours of the interview to show your appreciation and enthusiasm for the job.
+- Follow up with the interviewer or HR manager if you haven't heard back within a week.
 
 ## FAQs:
 

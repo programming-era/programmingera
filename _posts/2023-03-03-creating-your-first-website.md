@@ -1,17 +1,19 @@
 ---
 layout: post
+
 title: "Creating Your First Website for Beginners: From Github to Netlify"
 author: Programmingera
-categories: [html,website,coding,programming]
+tags: [html, website, coding, programming]
 image: /assets/images/photo-1498050108023-c5249f4df085.avif
-tags: [sticky, featured]
 ---
 
 <div>
-<img src="/assets/images/photo-1498050108023-c5249f4df085.avif" alt="coding">
-    <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap"><div class="markdown prose w-full break-words dark:prose-invert light"><p>Creating your first website can be a daunting task, but with the right resources and tools, it can be an exciting and rewarding experience. In this blog post, we'll walk you through the process of creating a simple website for beginners and deploying it on Netlify.</p><p>Step 1: Setting up your development environment
+
+9 <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap"><div class="markdown prose w-full break-words dark:prose-invert light"><p>Creating your first website can be a daunting task, but with the right resources and tools, it can be an exciting and rewarding experience. In this blog post, we'll walk you through the process of creating a simple website for beginners and deploying it on Netlify.</p><p>Step 1: Setting up your development environment
+
 Before you start building your website, you'll need to set up your development environment. You'll need a text editor to write your code, a web browser to test your website, and Git to manage your code.</p><p>For this tutorial, we recommend using Visual Studio Code as your text editor and Google Chrome as your web browser. Git comes pre-installed on most operating systems, but if you don't have it installed, you can download it from the official website.</p><p>Step 2: Creating your website
 Once you have your development environment set up, it's time to create your website. For this tutorial, we'll create a simple website that displays a heading and a paragraph.</p><p>First, create a new folder on your computer and name it "my-website". Then, open Visual Studio Code and create a new file in the "my-website" folder. Name the file "index.html" and add the following code:</p>
+
 <pre>
 <code>
   &lt;!DOCTYPE html&gt;

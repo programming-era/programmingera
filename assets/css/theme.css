@@ -279,9 +279,8 @@ a.text-dark:hover {
   width: 200px;
   padding: 14px 20px;
   border-radius: 30px;
-  background-color: #F9F9F9;
+  background-color: #f9f9f9;
   height: 35px;
- 
 }
 .mb-2rem {
   margin-bottom: 2rem;
@@ -880,27 +879,26 @@ div.a2a_full_footer {
   font-weight: 600;
 }
 .author-image {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	width: 40px; /* Adjust the size as needed */
-	height: 40px; /* Adjust the size as needed */
-	background-color: #fff; /* Set the background color */
-	color: #000;
-	border: 2px solid #000; /* Set the text color */
-	font-size: 24px; /* Adjust the font size */
-	text-align: center;
-	line-height: 40px; /* Adjust the line height */
-	border-radius: 50%; /* Make it circular */
-	margin-right: 10px; /* Adjust the spacing between the image and the name */
-  }
-  .category-chip{
-    color: #191a1a;
-    padding: 4px 8px;
-    border-radius: 3px;
-    margin-right: 10px;
-    background-color:#ebeef0;
-    cursor: pointer;
-    font-size: 14px;
-  }
-  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px; /* Adjust the size as needed */
+  height: 40px; /* Adjust the size as needed */
+  background-color: #fff; /* Set the background color */
+  color: #000;
+  border: 2px solid #000; /* Set the text color */
+  font-size: 24px; /* Adjust the font size */
+  text-align: center;
+  line-height: 40px; /* Adjust the line height */
+  border-radius: 50%; /* Make it circular */
+  margin-right: 10px; /* Adjust the spacing between the image and the name */
+}
+.category-chip {
+  color: #191a1a;
+  padding: 4px 8px;
+  border-radius: 3px;
+  margin-right: 10px;
+  background-color: #ebeef0;
+  cursor: pointer;
+  font-size: 14px;
+}
