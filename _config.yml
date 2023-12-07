@@ -1,50 +1,59 @@
-# Site
-name: 'Programmingera'
-description: 'Welcome to ProgrammingEra - Your Premier Destination for All Things Coding, Programming, and Technology. Stay ahead of the curve with expert insights, tutorials, and the latest industry news'
-logo: '/assets/images/logo.png'
-favicon: '/assets/images/favicon.ico'
-baseurl: 
+name: "Programmingera"
+websitename: "Programmingera.com"
+description: "Welcome to ProgrammingEra - Your Premier Destination for All Things Coding, Programming, and Technology. Stay ahead of the curve with expert insights, tutorials, and the latest industry news"
+logo: "/assets/images/logo.png"
+favicon: "/assets/images/favicon.ico"
+baseurl:
 siteurl: https://programmingera.com
 url: https://programmingera.com
-disqus: 'programmingera'
+disqus: "programmingera"
 
-
-include: ["_pages"]
-permalink: /:title/
-
-# Plugins
-plugins: 
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
- 
-# Defaults
-defaults:
-
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
-      
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-      
-# Syntax
+#-------------------------------
+# Build Settings
 markdown: kramdown
-highlighter: rouge
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
-# Paginate
-paginate: 10
+paginate: 12
+paginate_path: "/latest/page/:num"
 
+#-------------------------------
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:slug
+  authors:
+    output: true
+    permalink: /:name
 
+# Pages Path
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
 
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
-
+sass:
+  sass_dir: _sass
+  style: compressed
