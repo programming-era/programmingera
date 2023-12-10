@@ -109,7 +109,7 @@
         "mainEntityOfPage": "{{ page.url | absolute_url }}",
         "datePublished": "{{ page.date | date_to_xmlschema }}",
         "keywords": "{{ page.tags | join: ', ' }}",
-        "{% if page.url == "/" %}{{
+        "description": "{% if page.url == "/" %}{{
           site.data.settings.description | strip_html | xml_escape }}{% elsif
           page.description %}{{ page.description | strip_html | xml_escape }}{% else
           %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}",
