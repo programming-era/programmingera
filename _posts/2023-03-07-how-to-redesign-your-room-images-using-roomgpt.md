@@ -13,7 +13,6 @@ primaryKeywords: []
 featured: true 
 ---
   
-![room gpt image](/uploads/30_11_2023_1701336391265.jpeg)
 Are you tired of staring at the same boring walls every day? Do you want to spice up your room's interior design but don't know where to start? RoomGPT is the answer to all your interior design woes. With the help of RoomGPT, you can redesign your room images and transform them into stunning visuals that will leave you and your guests in awe. In this article, we'll show you how to use RoomGPT to redesign your room images.
 ## What is RoomGPT?
 RoomGPT is an AI-powered platform that utilizes GPT-3 language models to generate room designs based on user input. This innovative platform is ideal for interior designers, real estate agents, or anyone who wants to visualize different interior design options for their room. RoomGPT can produce photorealistic images of the user's room with a click of a button.
