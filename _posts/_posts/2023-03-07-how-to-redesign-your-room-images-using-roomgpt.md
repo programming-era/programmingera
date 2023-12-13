@@ -1,6 +1,6 @@
 ---
-tags: []
-categories: 
+categories: []
+tags: 
 - artificial intelligence
 - technology
 description: 
@@ -10,7 +10,7 @@ author: Ram Moudgill
 image: /uploads/30_11_2023_1701336391265.jpeg
 secondaryKeywords: []
 primaryKeywords: []
-
+featured: true 
 ---
   
 ![room gpt image](/uploads/30_11_2023_1701336391265.jpeg)
